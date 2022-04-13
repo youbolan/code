@@ -2,7 +2,7 @@
 
 
 
-### Copy elements out from html dropdown.
+### Copy text out from html dropdown.
 
 First, use develper tool to get the elementID. Then run the code in console.
 
