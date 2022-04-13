@@ -4,7 +4,7 @@
 
 ### Copy text out from html dropdown.
 
-First, use develper tool to get the elementID. Then run the code in console.
+First, use develper tool to get the elementId. Then run the code in console.
 
 ```javascript
 var t = ""; 
